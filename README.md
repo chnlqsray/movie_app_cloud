@@ -20,9 +20,9 @@ A movie discovery and in-depth analysis platform integrating the TMDB database w
 
 **Chinese-language filter**: At the data-quality level, precisely filters films with Chinese as original language, then applies code-level filtering to remove concerts, variety shows, and other non-film content — addressing the noise in TMDB's Chinese-language dataset.
 
-**电影深度百科**：以五维网络搜索（创作背景、艺术风格、中英文影评、摄影语言）驱动 AI 生成 1,600 字以上的结构化深度文章，包含引用来源标注，风格接近学术影评。
+**电影深度百科**：以五维网络搜索（创作背景、艺术风格、中英文影评、摄影语言）驱动 AI 生成 800 字左右的结构化深度文章，包含引用来源标注，风格接近学术影评。
 
-**Deep film profiles**: Five-axis web research (production background, artistic style, Chinese and English reviews, cinematography) drives AI generation of 1,600+ character structured articles with source attribution, in a style approaching academic film criticism.
+**Deep film profiles**: Five-axis web research (production background, artistic style, Chinese and English reviews, cinematography) drives AI generation of ~800 character structured articles with source attribution, in a style approaching academic film criticism.
 
 **导演关联推荐**：自动推荐导演其他代表作与主题相似影片，每部配 AI 生成的个性化推荐语。
 
@@ -76,4 +76,4 @@ Deep film profiles demand high-quality Chinese-English mixed writing, long-form 
 
 ---
 
-*Independently designed and delivered · 2025–2026*
+*Independently designed and delivered · 2026*
