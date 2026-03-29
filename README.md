@@ -6,6 +6,8 @@ A movie discovery and in-depth analysis platform integrating the TMDB database w
 
 🌐 **[Streamlit Cloud](https://my-movie-ai.streamlit.app/)** · **[HuggingFace Spaces](https://huggingface.co/spaces/chnlqsray/movie-radar)**
 
+▶ **[YouTube 演示视频](https://youtu.be/nY3jBSJbu5g)** · **[Bilibili 演示视频](https://www.bilibili.com/video/BV1WScyzDED9/)**
+
 ---
 
 ## 产品功能 · Features
@@ -41,7 +43,7 @@ A movie discovery and in-depth analysis platform integrating the TMDB database w
 | 电影数据 | TMDB API (tmdbv3api) |
 | 网络搜索 | DuckDuckGo Search (ddgs / duckduckgo_search 双兼容) |
 | 数据处理 | Pandas |
-| 运维 | GitHub Actions, Playwright |
+| 自动化运维 | GitHub Actions, Playwright（保活脚本托管于 [finance_app_cloud](https://github.com/chnlqsray/finance_app_cloud)）|
 
 ---
 
@@ -74,4 +76,4 @@ Deep film profiles demand high-quality Chinese-English mixed writing, long-form 
 
 ---
 
-*Independently designed and delivered · 2026*
+*Independently designed and delivered · 2025–2026*
