@@ -6,7 +6,7 @@ A movie discovery and in-depth analysis platform integrating the TMDB database w
 
 🌐 **[Streamlit Cloud](https://my-movie-ai.streamlit.app/)** · **[HuggingFace Spaces](https://huggingface.co/spaces/chnlqsray/movie-radar)**
 
-▶ **[YouTube 演示视频](https://youtu.be/nY3jBSJbu5g)** · **[Bilibili 演示视频](https://www.bilibili.com/video/BV1WScyzDED9/)**
+▶ **[YouTube 演示视频](https://youtu.be/OkK7aCUJT_Y)** · **[Bilibili 演示视频](https://www.bilibili.com/video/BV1WScyzDED9/)**
 
 ---
 
